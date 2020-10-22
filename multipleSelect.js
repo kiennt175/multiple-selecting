@@ -1,0 +1,3 @@
+$(function () {
+    $('.multiple-select').multipleSelect()
+})
